@@ -1,0 +1,4 @@
+Los clubes A y B van a fusionarse. Se dispone de los archivos socios_a.dat y socios_b.txt. 
+Debe generarse el archivo socios_final.txt, que debe contener a los socios de ambos clubes. 
+Debe desarrollar la función unificar_clubes que realiza dicha fusión. 
+En el caso de aquellos socios que pertenezcan a ambos clubes, se debe conservar la mayor antigüedad. 

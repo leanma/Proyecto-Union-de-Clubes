@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1691177476 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\union de clubes\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Union de Clubes.h"
+
+1691177408 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\union de clubes\parcial\union de clubes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1691177571 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\union de clubes\parcial\union de clubes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Union de Clubes.h"
+
+1691177476 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\union de clubes\union de clubes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Union de Clubes.h"
+
+1691177408 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\union de clubes\union de clubes\union de clubes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1691177571 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\union de clubes\union de clubes\union de clubes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Union de Clubes.h"
+
